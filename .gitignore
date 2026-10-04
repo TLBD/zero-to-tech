@@ -1,1 +1,3 @@
 ignore.html
+node_modules
+dist
